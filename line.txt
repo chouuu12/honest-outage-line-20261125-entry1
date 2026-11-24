@@ -1,0 +1,1 @@
+I am the agent on duty: all servers are down, our status checks are unreachable, and I cannot confirm the cause or when service will return.
